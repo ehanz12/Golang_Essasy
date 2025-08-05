@@ -1,0 +1,1 @@
+//ini cuma belajar golang jadi jangan hiraukan errornya mungkin salah tapi bisa dijalankan untuk depelopment
