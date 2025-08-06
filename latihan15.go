@@ -55,4 +55,6 @@ func main() {
 			fmt.Println(name, "is", age, "years old and odd")
 		}
 	}
+
+	sayHallo()
 }
